@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+    box-sizing: border-box; 
 }
 
 body {
@@ -95,20 +95,20 @@ body {
 
 .mini-2 h3{
     font-family: 'MyCustomFont';
-    color:  hsl(47, 88%, 63%);
-    margin-top: 8px;
+    color:  hsl(0, 0%, 7%);
+    margin-top: 10px;
 }
 
 .mini-2 img {
     height: 25px;
     vertical-align: middle; /* Align image vertically with text */
-    margin-top: 10px;
+    margin-top: 15px;
 }
 
 .mini-2 h4 {
     display: inline-block; /* Ensure text is inline-block */
     font-family: 'MyCustomFont';
     vertical-align: middle; /* Align text vertically with image */
-    margin-top: 10px;
+    margin-top: 15px;
 }
   
